@@ -1,0 +1,31 @@
+.bodySize{
+    margin-top: 100px !important;
+    min-height: 100vh;
+  }
+  .home {
+    display: flex;
+    flex-direction: column;
+    background-color: #EFEFEF;
+
+}
+.form{
+    display: 'flex';
+    flex-direction: 'column';
+    align-items: 'center';
+    margin: 20px;
+  }
+  .list {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin: 20px;
+  }
+  .listItem {
+    width: 100%;
+  }
+  .editButton{
+    margin-right: 10px;
+  }
+  .addButton {
+    margin: 20px;
+  }

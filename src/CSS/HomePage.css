@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    background-color: #EFEFEF;
+
+}
+
+.home__user {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    scroll-behavior: smooth;
+}
